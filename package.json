@@ -1,0 +1,18 @@
+{
+  "name": "css-with-js",
+  "version": "1.0.0",
+  "description": "Benchmark project to evaluate CSS vs Javascript performances",
+  "main": "index.js",
+  "author": "Kim Desrosiers",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.8.1"
+  },
+  "dependencies": {
+    "vue": "^2.5.16"
+  }
+}
