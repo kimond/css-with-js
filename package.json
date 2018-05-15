@@ -10,9 +10,12 @@
     "dev": "parcel index.html"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.8.1"
+    "@vue/component-compiler-utils": "^1.2.1",
+    "parcel-bundler": "^1.8.1",
+    "vue-template-compiler": "^2.5.16"
   },
   "dependencies": {
-    "vue": "^2.5.16"
+    "vue": "^2.5.16",
+    "vue-hot-reload-api": "^2.3.0"
   }
 }
